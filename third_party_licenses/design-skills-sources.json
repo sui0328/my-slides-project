@@ -1,0 +1,25 @@
+[
+  {
+    "repository": "https://github.com/kaankiziltug/logo-design-skill",
+    "commit": "0ecf52e9a4b3ac92b714f7cc6e3148ab8c774134",
+    "skills": [
+      "logo-design"
+    ]
+  },
+  {
+    "repository": "https://github.com/dhernz/brand-identity",
+    "commit": "c56afbc48432dafc51c70c1e9355998e8b8d79ec",
+    "skills": [
+      "brand-identity"
+    ]
+  },
+  {
+    "repository": "https://github.com/anthropics/skills",
+    "commit": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "skills": [
+      "canvas-design",
+      "algorithmic-art",
+      "theme-factory"
+    ]
+  }
+]
